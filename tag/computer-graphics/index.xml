@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Graphics | Daniel Subías</title>
+    <link>https://dsubias.github.io/tag/computer-graphics/</link>
+      <atom:link href="https://dsubias.github.io/tag/computer-graphics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computer Graphics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dsubias.github.io/media/icon_hu4cbd257c5ee2bacd486a9389056b43a7_30332_512x512_fill_lanczos_center_3.png</url>
+      <title>Computer Graphics</title>
+      <link>https://dsubias.github.io/tag/computer-graphics/</link>
+    </image>
+    
+    <item>
+      <title>Path Tracer and Tone Mapper</title>
+      <link>https://dsubias.github.io/project/mini-pt/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://dsubias.github.io/project/mini-pt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
