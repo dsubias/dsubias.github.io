@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Daniel Subías</title>
+    <title>Projects | J. Daniel Subías</title>
     <link>https://dsubias.github.io/project/</link>
       <atom:link href="https://dsubias.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
