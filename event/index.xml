@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | J. Daniel Subías</title>
+    <title>Talks | J. Daniel Subías</title>
     <link>https://dsubias.github.io/event/</link>
       <atom:link href="https://dsubias.github.io/event/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <description>Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Jun 2023 11:20:00 +0000</lastBuildDate>
     <image>
       <url>https://dsubias.github.io/media/icon_hu4cbd257c5ee2bacd486a9389056b43a7_30332_512x512_fill_lanczos_center_3.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Talks</title>
       <link>https://dsubias.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>Dissemination Talk: IES Hermanos Argensola</title>
+      <link>https://dsubias.github.io/talk/dissemination-talk-ies-hermanos-argensola/</link>
+      <pubDate>Fri, 02 Jun 2023 11:20:00 +0000</pubDate>
+      <guid>https://dsubias.github.io/talk/dissemination-talk-ies-hermanos-argensola/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In-the-wild Material Appearance Editing using Perceptual Attributes</title>
+      <link>https://dsubias.github.io/talk/in-the-wild-material-appearance-editing-using-perceptual-attributes/</link>
+      <pubDate>Thu, 11 May 2023 09:00:00 +0000</pubDate>
+      <guid>https://dsubias.github.io/talk/in-the-wild-material-appearance-editing-using-perceptual-attributes/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -2,20 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://dsubias.github.io/talk/dissemination-talk-ies-hermanos-argensola/</loc>
+    <lastmod>2023-06-02T11:20:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dsubias.github.io/event/</loc>
+    <lastmod>2023-06-02T11:20:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://dsubias.github.io/publication-type/1/</loc>
-    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://dsubias.github.io/publication/in-the-wild_editing/</loc>
-    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://dsubias.github.io/publication_types/</loc>
-    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://dsubias.github.io/publication/</loc>
-    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dsubias.github.io/talk/in-the-wild-material-appearance-editing-using-perceptual-attributes/</loc>
+    <lastmod>2023-05-11T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://dsubias.github.io/</loc>
@@ -53,9 +65,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://dsubias.github.io/post/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dsubias.github.io/event/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
