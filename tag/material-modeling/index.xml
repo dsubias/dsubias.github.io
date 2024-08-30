@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Material Modeling | J. Daniel Subías</title>
+    <link>https://dsubias.github.io/tag/material-modeling/</link>
+      <atom:link href="https://dsubias.github.io/tag/material-modeling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Material Modeling</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dsubias.github.io/media/icon_hu4cbd257c5ee2bacd486a9389056b43a7_30332_512x512_fill_lanczos_center_3.png</url>
+      <title>Material Modeling</title>
+      <link>https://dsubias.github.io/tag/material-modeling/</link>
+    </image>
+    
+    <item>
+      <title>In-the-wild Material Appearance Editing using Perceptual Attributes</title>
+      <link>https://dsubias.github.io/publication/in-the-wild_editing/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://dsubias.github.io/publication/in-the-wild_editing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
