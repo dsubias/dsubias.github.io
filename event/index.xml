@@ -5,12 +5,20 @@
     <link>https://dsubias.github.io/event/</link>
       <atom:link href="https://dsubias.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 25 May 2024 18:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Jul 2025 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dsubias.github.io/media/icon_hu4cbd257c5ee2bacd486a9389056b43a7_30332_512x512_fill_lanczos_center_3.png</url>
       <title>Talks</title>
       <link>https://dsubias.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>Artist-Inator: Text-based, Gloss-aware Non-photorealistic Stylization</title>
+      <link>https://dsubias.github.io/talk/artist-inator-text-based-gloss-aware-non-photorealistic-stylization/</link>
+      <pubDate>Sun, 27 Jul 2025 09:00:00 +0000</pubDate>
+      <guid>https://dsubias.github.io/talk/artist-inator-text-based-gloss-aware-non-photorealistic-stylization/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Behind the digital curtain: we see life through screens</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Non-photorealistic Stylization | J. Daniel Subías</title>
+    <link>https://dsubias.github.io/tag/non-photorealistic-stylization/</link>
+      <atom:link href="https://dsubias.github.io/tag/non-photorealistic-stylization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Non-photorealistic Stylization</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dsubias.github.io/media/icon_hu4cbd257c5ee2bacd486a9389056b43a7_30332_512x512_fill_lanczos_center_3.png</url>
+      <title>Non-photorealistic Stylization</title>
+      <link>https://dsubias.github.io/tag/non-photorealistic-stylization/</link>
+    </image>
+    
+    <item>
+      <title>Artist-Inator: Text-based, Gloss-aware Non-photorealistic Stylization</title>
+      <link>https://dsubias.github.io/publication/artist-inator/</link>
+      <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://dsubias.github.io/publication/artist-inator/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
